@@ -12,7 +12,7 @@
   </p>
 </div>
 
-# Contador de Calorías, Consumos y Ejercicios - React + Vite + TypeScript
+# Contador de Calorías, Consumos y Ejercicios - React + Vite + TypeScript + ContextAPI
 
 Aplicación creada con [React](https://react.dev/) y [Vite](https://vitejs.dev/) usando [TypeScript](https://www.typescriptlang.org/), la cual es un Contador de Calorías, Consumos y Ejercicios con el cual puedes agregar las calorías consumidas por tus alimentos, así como las calorías quemadas por tu ejercicio y la App calculará la diferencia entre ambas, dándote una idea de tus consumos diarios, puedes editarlos o eliminarlos si es que así lo de seas, y es persistente hasta que presiones el botón de **Reiniciar App**.
 
@@ -28,7 +28,9 @@ Algunos de los conceptos utilizados para la generación de ésta App, son:
 8. [Heroicons](https://www.npmjs.com/package/@heroicons/react).
 9. Formularios.
 10. Validaciones.
-11. Y más.
+11. ContexyAPI.
+12. Hooks Personalizados.
+13. Y más.
 
 # React + Vite + TypeScript
 
