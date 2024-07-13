@@ -28,7 +28,7 @@ Algunos de los conceptos utilizados para la generación de ésta App, son:
 8. [Heroicons](https://www.npmjs.com/package/@heroicons/react).
 9. Formularios.
 10. Validaciones.
-11. ContexyAPI.
+11. ContextAPI.
 12. Hooks Personalizados.
 13. Y más.
 
